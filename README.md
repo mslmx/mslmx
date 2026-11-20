@@ -1,4 +1,6 @@
-## Hi there 👋
+## hi مرحبا جميعا
+C language amateur and 3D modeler هاو في لغة سي و منمذج ثلاثي الابعاد
+
 
 <!--
 **mslmx/mslmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
